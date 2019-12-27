@@ -34,6 +34,9 @@ export function loadContent() {
             labels: ['#54e1f7'],
             user: 'https://avatars3.githubusercontent.com/u/37053115?s=400&v=4'
           },
+          {
+            id: -1,
+          }
         ]
       },
       { 
@@ -45,6 +48,9 @@ export function loadContent() {
             content: 'Recriando clone do Pipefy',
             labels: [],
             user: 'https://avatars3.githubusercontent.com/u/37053115?s=400&v=4'
+          },
+          {
+            id: -1,
           }
         ]
       },
@@ -68,6 +74,9 @@ export function loadContent() {
             id: 9,
             content: 'Ajustes na biblioteca unform',
             labels: [],
+          },
+          {
+            id: -1,
           }
         ]
       },
@@ -90,6 +99,9 @@ export function loadContent() {
             id: 13,
             content: 'Gravar Aula "Internacionalização de aplicações Node.js, ReactJS e React Native"',
             labels: ['#7159c1'],
+          },
+          {
+            id: -1,
           }
         ]
       },

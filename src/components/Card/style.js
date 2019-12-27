@@ -40,3 +40,16 @@ export const Container = styled.div`
 
     `}
 `;
+
+export const LastCardContainer = styled.div`
+    width:250px;
+    padding: 10px;
+    border: 2px dashed #aaa8;
+    background-color:transparent;
+    border-radius:8px;
+    margin-bottom:10px;
+    p{
+        font-weight:500;
+        text-align:center;
+    }
+`;

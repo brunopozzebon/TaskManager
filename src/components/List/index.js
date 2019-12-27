@@ -21,6 +21,7 @@ export default class List extends Component {
                     card={card}/>
                     )
                 })}
+
             </Container>
         )
     }
