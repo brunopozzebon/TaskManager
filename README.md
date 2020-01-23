@@ -11,16 +11,16 @@ It need the following programs to work
 ## :rocket: How to run it
 ```bash
 # Clone this repository
-$ git clone https://github.com/brunopozzebon/task-manager.git
+git clone https://github.com/brunopozzebon/task-manager.git
 
 # Go into the repository
-$ cd task-manager
+cd task-manager
 
 # Install all the dependencies
-$ npm install
+npm install
 
 # Run react-app-application on door 3000
-$ npm run start
+npm run start
 
 ```
 
